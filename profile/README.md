@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-logo.gif" alt="Weta Technologies" width="520">
+<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-banner.png" alt="Weta Technologies — software development & hosting, New Zealand" width="100%">
 
-<h1>Weta Technologies</h1>
+<br><br>
 
 <strong>New Zealand software studio — we design it, we build it, we run it.</strong>
 
