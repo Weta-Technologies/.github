@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-banner.gif" alt="Weta Technologies — software development & hosting, New Zealand" width="100%">
+<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-banner.gif" alt="Weta Technologies — design, build, host, support" width="100%">
 
 <br><br>
 
@@ -18,13 +18,17 @@
 
 ## Kia ora
 
-**Weta Technologies** is a software and technology development company based in **Wellington, New Zealand**, building for clients around the world. We build productivity software that works the way businesses actually work — cutting the busywork, lifting efficiency, and protecting the bottom line.
+**Weta Technologies** is a software and technology development company based in **Wellington, New Zealand**, building for clients around the world. We build software that gets the busywork out of your team's way, so people spend less time wrestling tools and more time doing the work that matters.
 
-- **Design, build, host, and support** — the whole stack in-house, not handed off between vendors
+> **No handoffs. No subcontractors. One team — we design it, we build it, we host it, we support it.**
+
+- **Full ownership of the stack** — from first sketch to production support, nothing gets thrown over a wall
 - **Proudly made in New Zealand, built for a global audience** — Wellington-based, working with clients worldwide
 - **Bespoke when off-the-shelf doesn't fit** — custom software scoped to how your business actually runs
 
 ## What we build
+
+**[SupportPlus](https://wetatechnologies.com/supportplus/) is live today**, already running support teams in production. Here's the full lineup:
 
 | Product | What it is | Status |
 | :-- | :-- | :-- |
@@ -34,9 +38,9 @@
 
 ## Work with us
 
-Need something built to fit? We take on **bespoke software** end to end — design, build, hosting, and support.
+Need something built to fit? Whether it's extending one of our own products or building something from scratch, we scope it, build it, and keep it running — start to finish, one team.
 
-**→ [Tell us what you need](https://wetatechnologies.com/bespoke/)**
+<a href="https://wetatechnologies.com/bespoke/"><img src="https://img.shields.io/badge/Tell%20us%20what%20you%20need-00A38B?style=for-the-badge" alt="Tell us what you need"></a>
 
 ## Our code
 
