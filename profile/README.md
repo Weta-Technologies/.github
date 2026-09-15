@@ -4,7 +4,7 @@
 
 <br><br>
 
-<strong>New Zealand software studio — we design it, we build it, we run it.</strong>
+<strong>Software & technology development, proudly made in New Zealand — built for a global audience.</strong>
 
 <br><br>
 
@@ -18,10 +18,10 @@
 
 ## Kia ora
 
-**Weta Technologies** is a software company based in **Wellington, New Zealand**, working with teams nationwide. We build productivity software that works the way businesses actually work — cutting the busywork, lifting efficiency, and protecting the bottom line.
+**Weta Technologies** is a software and technology development company based in **Wellington, New Zealand**, building for clients around the world. We build productivity software that works the way businesses actually work — cutting the busywork, lifting efficiency, and protecting the bottom line.
 
 - **Design, build, host, and support** — the whole stack in-house, not handed off between vendors
-- **Wellington-based, nationwide** — built for New Zealand businesses, working with teams across the country
+- **Proudly made in New Zealand, built for a global audience** — Wellington-based, working with clients worldwide
 - **Bespoke when off-the-shelf doesn't fit** — custom software scoped to how your business actually runs
 
 ## What we build
@@ -51,5 +51,8 @@ Most of our repositories are **private** — our products are commercial and pro
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-powered-by.gif" alt="Powered by Weta Technologies" width="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-powered-by-dark.gif">
+  <img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-powered-by.gif" alt="Powered by Weta Technologies" width="150">
+</picture>
 </div>
