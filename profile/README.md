@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-banner.png" alt="Weta Technologies — software development & hosting, New Zealand" width="100%">
+<img src="https://raw.githubusercontent.com/Weta-Technologies/.github/main/profile/weta-banner.gif" alt="Weta Technologies — software development & hosting, New Zealand" width="100%">
 
 <br><br>
 
