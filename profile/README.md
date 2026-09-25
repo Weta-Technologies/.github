@@ -10,6 +10,7 @@
 
 <a href="https://wetatechnologies.com">Website</a> ·
 <a href="https://wetatechnologies.com/bespoke/">Custom software</a> ·
+<a href="https://weta-technologies.github.io/mac-apps/">Mac apps</a> ·
 <a href="mailto:hello@wetatechnologies.com">hello@wetatechnologies.com</a>
 
 </div>
@@ -35,6 +36,12 @@
 | **[SupportPlus](https://wetatechnologies.com/supportplus/)** | Helpdesk & customer-support platform | ![Live](https://img.shields.io/badge/Live-00C2A8?style=flat-square) |
 | **[Weta PC Build](https://wetatechnologies.com/pc-build/)** | Windows imaging & PC deployment | ![Available](https://img.shields.io/badge/Available-00529F?style=flat-square) |
 | **[Advanced Toolbox](https://wetatechnologies.com/advanced-toolbox/)** | All-in-one business operations suite | ![In development](https://img.shields.io/badge/In%20development-F59E0B?style=flat-square) |
+
+## Mac apps
+
+We also publish free, native Mac apps on GitHub — **[SleepLess](https://weta-technologies.github.io/SleepLess/)** keeps your Mac awake and **[JuiceLeft](https://weta-technologies.github.io/JuiceLeft/)** shows exactly how much battery is left, with JotPad on the way. They collect nothing and download straight from their releases.
+
+**→ [Download Mac apps](https://weta-technologies.github.io/mac-apps/)**
 
 ## Work with us
 
